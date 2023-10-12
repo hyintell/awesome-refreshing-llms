@@ -16,6 +16,7 @@ Although **large language models (LLMs)** are impressive in solving various task
 
 
 ## 📢 News
+- **[2023-10] Our survey paper is now available on Arxiv: *[How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances](https://arxiv.org/abs/2310.07343)***.
 - **[2023-10] Our survey paper: *"How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances"* has been accepted by [EMNLP 2023](https://2023.emnlp.org/)! We will release the camera-ready version soon.**
 - **[2023-10] We create this repository to maintain a paper list on *refreshing LLMs without retraining*.**
 
