@@ -267,6 +267,15 @@ Please see our paper for more details.
 
 If our research helps you, please kindly cite our paper.
 
+```bibtex
+@article{zhang2023large,
+  title={How Do Large Language Models Capture the Ever-changing World Knowledge? A Review of Recent Advances},
+  author={Zhang, Zihan and Fang, Meng and Chen, Ling and Namazi-Rad, Mohammad-Reza and Wang, Jun},
+  journal={arXiv preprint arXiv:2310.07343},
+  year={2023}
+}
+```
+
 
 ## 🎉 Acknowledgement & Contribution
 
